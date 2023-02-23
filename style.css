@@ -6,10 +6,10 @@ html {
 #dogButton {
   font-family:Arial, Helvetica, sans-serif;
   font-size: 20px;
-  color:white;
+  color:black;
   width:200px;
   height:50px;
-  background:black;
+  background:white;
   position: relative;
   display: flex;
   align-items: center;
@@ -24,8 +24,8 @@ html {
   top:0;
   width: 0;
   height: 0;
-  border-top: 2px solid white;
-  border-right: 2px solid white;
+  border-top: 2px solid black;
+  border-right: 2px solid black;
   animation: border-top-right 3s infinite alternate;
 }
 
@@ -43,8 +43,8 @@ html {
   bottom:0;
   width: 0;
   height: 0;
-  border-bottom:2px solid white;
-  border-left: 2px solid white;
+  border-bottom:2px solid black;
+  border-left: 2px solid black;
   animation: border-bottom-left 3s infinite alternate;
 }
 

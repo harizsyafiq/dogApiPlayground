@@ -9,7 +9,7 @@ const bodyDiv = document.getElementById('body')
 const dogImageDiv = document.getElementById('dogImage')
 const dogButtonDiv = document.getElementById('dogButton')
 
-bodyDiv.style.backgroundColor = 'white'
+bodyDiv.style.backgroundColor = 'black'
 
 // stuff you have to wait for
 const getNewDog = () => {
